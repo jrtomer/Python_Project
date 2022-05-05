@@ -1,0 +1,4 @@
+## Assignment 5
+1. **Problem**: Climate change has had many adverse impacts on our cyrosphere. As a result, I want to analyze data that tracks the movement and recession of glaciers. By calculating the rate of the rate of change of glacier movement, I can predict how much faster a glacier will recede for a one degree increase in temperature.
+2. **Computational Steps**: I would use matplotlib to make models and then take the derivative of the best-fit equations for those models. It would involve lots of different lists and functions to run the data through, but I think I could make it work.
+3. **Datasets**: From the research I've done so far, it seems like most of the data on glaciers is image based. For now, I'll keep scouring the internet in search of one-dimensional array datasets (fingers crossed). 
