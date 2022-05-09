@@ -1,2 +1,8 @@
-## Python_Project
-![Glaciology](https://www.nps.gov/subjects/glaciers/images/KEFJ_Bear_Glacier_NPS_Photo_crop.jpg?maxwidth=1200&autorotate=false&quality=78&format=webp)
+# Python_Project
+
+## Hypothesis
+
+Yearly snowfall, measured at mount baker ski area, is directly related to the nooksack river's flow.
+
+![Baker Snowmelt](https://static.rootsrated.com/image/upload/s--oi9EKAZ8--/t_rr_large_traditional/sq3xagbijl71ra9hphjk.jpg)
+![Nooksack](https://ecology.wa.gov/DOE/media/Images/WATER-SHORELINES/Water%20supply/NoocksackRiver2.png?ext=.png)
