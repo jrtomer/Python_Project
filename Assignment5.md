@@ -1,5 +1,5 @@
 ## Assignment 5
-1. **Problem**: The Nooksack river's flow has been decreasing by roughly 0.5% each year. Recently, the river's flow has started to decrease by 3% yearly. As droughts become more severe, fisheries, wildlife, and agriculture will be adversely affected by the decrease in the Nooksack river's flow rate.
+1. **Problem**: The Nooksack river's flow has been decreasing by roughly 0.5% each year. Recently, the river's flow has started to decrease by 3% each year. As droughts become more severe fisheries, wildlife, and agriculture will be adversely affected by the decrease in the Nooksack river's flow rate.
 2. **Computational Steps**: I will make a model depicting baker's yearly snowfall from 1970 to 2022. I will fit a line to the data and determine whether yearly snowfall has been increasing, decreasing, or staying constant at Mount Baker Ski area. I am also going to compare the flow rate and yearly snowfall at Baker using bar charts and include error bars (using standard error) to see if the two are directly related. If they aren't... that's when things get interesting.
 3. **Datasets**: [Mount Baker Snowfall Statistics](https://www.mtbaker.us/the-mountain/snowfall-statistics/)|[Nooksack River Flowrates](https://whatcomwatch.org/index.php/article/nooksack-river-streamflows-are-getting-worse/)
 
